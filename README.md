@@ -4,4 +4,5 @@ ZJU Robotics project of differential drive car path planning and trajectory plan
 Method:     
 A-star    
 RRT      
-RRT-Connect     
+RRT-Connect    
+For more details, please look at <一些记录.pdf> and <一些记录.md>
